@@ -9,8 +9,8 @@ hello-cargo-rust
 |- src
   |- main.rs
   
-In main.rs you code 
-once you've build your proyect you run it with the command> "cargo run" 
-from the project folder
-Afer you add a dependency you run >cargo build
-and Cargo will install the dependencies for you
+In main.rs you code. 
+Once you've coded your proyect you run it with the command> "cargo run" 
+from the project folder.
+Afer you add a dependency you executes this command >"cargo build",
+and Cargo will install the dependencies for you.

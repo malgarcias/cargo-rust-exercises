@@ -1,5 +1,5 @@
 # cargo-rust-exercises
-cargo and rust exercises to create ans build a project
+cargo and rust exercises to create and build a simple project
 
 create a project with command> "cargo new hello-cargo-rust" 
 will create this directory structure:
